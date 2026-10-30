@@ -224,7 +224,7 @@ Las siguientes capturas documentan los principales estados de la aplicación:
 
 ### 1. Vista inicial
 
-![Vista inicial](screenshots/01-vista-inicial)
+![Vista inicial](screenshots/01-vista-inicial.PNG)
 
 ### 2. Búsqueda y enfoque del buscador
 
